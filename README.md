@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jimmy-Camelan
+- 👀 I’m interested in web software architecture
+- 🌱 I’m currently learning typescript
+- 📫 How to reach me gamal@camelan.com
